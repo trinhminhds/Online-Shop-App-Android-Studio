@@ -1,5 +1,5 @@
 # Online Shop App Android Studio Project with Firebase & Java 
-[![Watch the Tutorial Video](https://img.youtube.com/vi/ogISRbPXoKY/0.jpg)](https://www.youtube.com/watch?v=ogISRbPXoKY)
+[![Watch the Tutorial Video](https://img.youtube.com/vi/ogISRbPXoKY/0.jpg)]
 
 The goal of this project is to help you get familiar with the process of Android app development using Android Studio and Kotlin. The video guides you through project creation, UI design, event handling, and running the application on a real device or emulator.
 
