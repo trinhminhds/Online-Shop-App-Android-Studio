@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Khoảng cách giữa các item trong RecyclerView -->
+    <dimen name="spacing_2dp">2dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>
